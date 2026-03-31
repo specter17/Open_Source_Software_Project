@@ -3,8 +3,8 @@
 This repository contains five shell scripts and a comprehensive report outline covering the "Open Source Audit" capstone project for the chosen open source software: **Python**.
 
 ## Developer Information
-- **Student Name**: Abhishek Chaturvedi
-- **Registration Number**: 24BCE11082
+- **Student Name**: Nikhilesh Sarode
+- **Registration Number**: 24BSA10060
 - **Chosen Software**: Python
 
 ## Project Shell Scripts
